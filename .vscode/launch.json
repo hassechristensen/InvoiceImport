@@ -1,0 +1,65 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "DEV-Bilag-Sandbox",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "DEV-Bilagshaandtering",
+            "startupObjectId": 15,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "21e31f6d-2970-4b84-a204-8e1e7327d83f",
+            "schemaUpdateMode": "ForceSync"      
+        },
+        {
+            "name": "SandboxUnitIT240618MSJ",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "SandboxUnitIT240618MSJ",
+            "startupObjectId": 15,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "f6416e50-3c55-4b34-8d2b-ca04d1f37746",
+            "schemaUpdateMode": "ForceSync"      
+        },
+        {
+            "name": "Sandbox_UnitIT_DK_240403_MSJ",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox_UnitIT_DK_240403_MSJ",
+            "startupObjectId": 15,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "f6416e50-3c55-4b34-8d2b-ca04d1f37746",
+            "schemaUpdateMode": "ForceSync"      
+        },
+        {
+            "name": "UNIT_IT",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Production",
+            "environmentName": "UNIT_IT",
+            "startupObjectId": 15,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "f6416e50-3c55-4b34-8d2b-ca04d1f37746",
+            "schemaUpdateMode": "ForceSync"      
+        }            
+    ]
+}

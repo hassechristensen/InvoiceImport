@@ -1,0 +1,30 @@
+{
+  "id": "121e716f-6b0b-4844-b764-1c5e2fd2321e",
+  "name": "InvoiceImport",
+  "publisher": "Consit Gruppen",
+  "version": "1.0.52497.11",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 63000,
+      "to": 63099
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": ["TranslationFile"],
+  "runtime": "13.0"
+}

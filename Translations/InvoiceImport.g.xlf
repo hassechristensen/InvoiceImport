@@ -1,0 +1,729 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="InvoiceImport">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3975920402 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Import Entry</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fakturaindlæsningsposter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 3489970816 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AXID</source>
+          <note from="Developer" annotates="general" priority="2">DAN="AXID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field AXID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Løbenr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 2366917804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"External ID"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="External ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field ExternalID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 1545435603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filename</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Filnavn"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field Filename - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 837247550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fradato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field FromDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 3167827748 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Line No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgsfakturalinje nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field Invoice Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 166038250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgsfaktura nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 3903592916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Item ID"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vare Nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field ItemID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 3904506103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"ProjectCategory"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Projektkategori"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field ProjectCategory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 992722992 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Project No"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Projekt Nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field ProjectNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Antal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 7801524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Service ID"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Service ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field ServiceID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 4137594593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Tildato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field ToDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgspris"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3975920402 - Field 1041667118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Variant ID"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Variant ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Entry Con - Field VariantID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Import Entry</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fakturaindlæsningsposter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 3489970816 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AXID</source>
+          <note from="Developer" annotates="general" priority="2">DAN="AXID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field AXID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 2810311271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error text</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fejlbeskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field ErrorText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 2366917804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"External ID"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="External ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field ExternalID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 1545435603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filename</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Filenavn"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field Filename - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 837247550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fradato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field FromDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 1849555595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Internal Invoice No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Intern fakturanr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field Internal Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 3903592916 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Item ID"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vare Nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field ItemID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LineNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 3904506103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"ProjectCategory"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Projektkategori"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field ProjectCategory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 992722992 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Project No"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Projekt Nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field ProjectNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Antal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 7801524 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Service ID"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Service ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field ServiceID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 4137594593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To Date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Tildato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field ToDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgspris"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3435407521 - Field 1041667118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Variant ID"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Variant ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Ledger Con - Field VariantID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4066354999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inoice Import Setup</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fakturainlæsningsopsætning"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Setup Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4066354999 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Primærnøgle"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Setup Con - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4066354999 - Field 329847988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Dimension Code</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Projektdimensionskode"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Setup Con - Field Project Dimension Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4066354999 - Field 841957401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Line Account</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgsline finanskontonr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Setup Con - Field Sales Line Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4066354999 - Field 2838749891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Transfer Attachments to Sales Documents"</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Overfør bilag til salgsfakturaer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Setup Con - Field Transfer Attachments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4066354999 - Field 2385270358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesline Unit of Measure Code</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgsenhedskode"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CG Invoice Import Setup Con - Field Unit of Measure Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2418613621 - Method 335321606 - NamedType 580140240" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document %3 %1 already exists for Invoice %2</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgsdokument %3 %1 findes allerede med Externt Bilagsnr. %2"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CG Create Invoice Con - Method CreateInvoiceHeader - NamedType SalesDocumentExistTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Import Entries</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fakturaindlæsningsposter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 3489970816 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the AXID field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="AXID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control AXID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the LineNo field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 2366917804 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the "External ID" field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="External ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control ExternalID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 1545435603 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Filename field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Filenavn"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control Filename - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 837247550 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the From Date field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fradato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control FromDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 3167827748 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Invoice Line No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="SalgsfakturaLinje nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control Invoice Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 166038250 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Invoice No.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgsfaktura nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control Invoice No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 3903592916 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the "Item ID" field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vare Nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control ItemID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 3904506103 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the "ProjectCategory" field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Projektkategori"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control ProjectCategory - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 992722992 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the "Project No" field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Projekt Nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control ProjectNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Antal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 7801524 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the "Service ID" field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Service ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control ServiceID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 4137594593 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the To Date field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Tildato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control ToDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Unit Price (LCY) field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgspris (RV)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 1041667118 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the "Variant ID" field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Variant ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control VariantID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Control 1658766258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Control Attached Documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Action 3330805896 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Invoice</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vis salgsfaktura"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Action &amp;Show Invoice - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Action 3330805896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Show Invoice</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vis salgsfaktura"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Action &amp;Show Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 670497772 - Action 3330805896 - Method 1377591017 - NamedType 20121470" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice %1 not found</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgsfaktura %1 ikke fundet"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Entries Con - Action &amp;Show Invoice - Method OnAction - NamedType NotFoundMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Import Ledger</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fakturaindlæsningskladde"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - NamedType 1478738838" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please choose the CSV file</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vælg CSV-fil til indlæsning"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - NamedType UploadMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Method 3091011118 - NamedType 2182284056" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select ZIP File</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vælg Zip file"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Method ImportAttachmentsFromZip - NamedType SelectZIPFileMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Method 3091011118 - NamedType 2671693323" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 CSV files imported successfully</source>
+          <note from="Developer" annotates="general" priority="2">DAN="%1 CSV-fil(er) er indlæst"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Method ImportAttachmentsFromZip - NamedType CSVImportSuccessMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Method 3091011118 - NamedType 3907048935" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 attachments Imported successfully.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="%1 filer er importeret succefuldt"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Method ImportAttachmentsFromZip - NamedType ImportedMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 3489970816 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the AXID field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="AXID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control AXID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Beskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 2810311271 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Error field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Viser fejlbeskrivelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control ErrorText - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 2366917804 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the "External ID" field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="External ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control ExternalID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 1545435603 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Filename field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Filenavn"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control Filename - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 837247550 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the From Date field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fradato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control FromDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 1849555595 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the LineNo field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control Internal Invoice No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 3903592916 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the "Item ID" field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Vare Nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control ItemID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the LineNo field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 3904506103 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the "ProjectCategory" field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Projektkategori"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control ProjectCategory - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 992722992 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the "Project No" field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Projekt Nr."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control ProjectNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Antal"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 7801524 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the "Service ID" field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Service ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control ServiceID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 4137594593 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the To Date field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Tildato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control ToDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 2937233469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Unit Price (LCY) field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgspris (RV)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control Unit Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 1041667118 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the "Variant ID" field.</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Variant ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control VariantID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Control 1658766258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Control Attached Documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Action 3106002577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Action F&amp;unctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Action 209621922 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate Lines</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Valider Linjer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Action &amp;ValidateLine - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Action 209621922 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate Lines</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Valider Linjer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Action &amp;ValidateLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Action 209621922 - Method 1377591017 - NamedType 2505851771" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 do not exists</source>
+          <note from="Developer" annotates="general" priority="2">DAN="%1 %2 eksistrer ikke"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Action &amp;ValidateLine - Method OnAction - NamedType ErrortxtMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Action 1528185918 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Archive</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Se arkiverede indlæsninger"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Action Archive - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Action 1528185918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Se arkiverede indlæsninger"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Action Archive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Action 2164946407 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creates data from Ledger</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Opretter data fra kladden, der benyttes nederste skabelon ved oprettelse"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Action CreateCustomerItem - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Action 2164946407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Customer  &amp; Item data (Test Only)</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Opret Kunder og Vare data (kun test)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Action CreateCustomerItem - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Action 3058300703 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Invoices from CSV-data</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Opretter salgsdokumenter fra CSV-data"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Action CreateInvoice - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Action 3058300703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Invoice</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Opret fakturaer/kreditnotaer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Action CreateInvoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Action 1514843628 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Attachments from Zip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Action ImportZipFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3435407521 - Action 1514843628 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Zip File</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Indlæs Zip-fil"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Ledger Con - Action ImportZipFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4066354999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract Setup</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Kontraktopsætning"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Setup Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4066354999 - Control 329847988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Dimension for ProjectNo</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Angiv dimension for projekt numre."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Setup Con - Control Project Dimension Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4066354999 - Control 841957401 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Account for Sales Line</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Angiv finanskontonr. for salgsline"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Setup Con - Control Sales Line Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4066354999 - Control 2838749891 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer attachtments to Sales Invoices</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Angiv om bilag skal overføres til salgsfakturering"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Setup Con - Control Transfer Attachments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4066354999 - Control 2385270358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Unit of Measure Code for Sales Line</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Angiv enhedskode for salgsline"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CG Invoice Import Setup Con - Control Unit of Measure Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2418613621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Invoices</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Dan Fakturaer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CG Create Invoice Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2418613621 - NamedType 1802222120" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creating Documents for Customer #####1####</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Salgsdokumenter oprettes for kunde #####1####"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report CG Create Invoice Con - NamedType WindowTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 3110104666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Customers</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Slet debitorer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Delete Customers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3110104666 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Customers</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Slet debitorer,"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Delete Customers - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1112959250 - Action 3991006967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Invoice Import</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fakturaindlæsning"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG BusinessManagerRoleExt Con - Action CG Invoice Import Group Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1112959250 - Action 1188854966 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Invoice Import</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fakturaindlæsningskladde"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG BusinessManagerRoleExt Con - Action CG Invoice Import Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1112959250 - Action 257398251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Periodic</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Kørsler"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG BusinessManagerRoleExt Con - Action CG Periodic Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1112959250 - Action 2755582780 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Create Invoices</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Opret salgsdokumenter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG BusinessManagerRoleExt Con - Action CG Create Invoices Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1112959250 - Action 2071805090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Setup</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Opsætning"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG BusinessManagerRoleExt Con - Action CG Setup Group Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1112959250 - Action 548509301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Setup</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Opsætning"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG BusinessManagerRoleExt Con - Action CG Contract Setup Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1112959250 - Action 670497772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2458191494">
+          <source>Invoice Import Entries</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fakturaindlæsningsposter"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG BusinessManagerRoleExt Con - Action CG Invoice Import Entries Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1040252151 - Control 1549254840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379883806">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG Sales Invoice Subform Con - Control CG From Date Con - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1040252151 - Control 480531386 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379883806">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG Sales Invoice Subform Con - Control CG Service ID Con - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1040252151 - Control 1119428379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379883806">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG Sales Invoice Subform Con - Control CG To Date Con - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1040252151 - Control 2366917804 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379883806">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG Sales Invoice Subform Con - Control ExternalID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4214658176 - Control 1549254840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3689007477">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG Sales Subform Con - Control CG From Date Con - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4214658176 - Control 480531386 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3689007477">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG Sales Subform Con - Control CG Service ID Con - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4214658176 - Control 1119428379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3689007477">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG Sales Subform Con - Control CG To Date Con - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4214658176 - Control 2366917804 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3689007477">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CG Sales Subform Con - Control ExternalID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1682009332 - Control 1549254840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PostedSalesInvoice - Control CG From Date Con - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1682009332 - Control 480531386 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PostedSalesInvoice - Control CG Service ID Con - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1682009332 - Control 1119428379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PostedSalesInvoice - Control CG To Date Con - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1682009332 - Control 2366917804 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2420212404">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PostedSalesInvoice - Control ExternalID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 927944371 - Control 1549254840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesInvoice - Control CG From Date Con - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 927944371 - Control 480531386 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesInvoice - Control CG Service ID Con - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 927944371 - Control 1119428379 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesInvoice - Control CG To Date Con - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 927944371 - Control 2366917804 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4034894651">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesInvoice - Control ExternalID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 691169075 - Field 1549254840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>From date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fra dato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Header Con - Field CG From Date Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 691169075 - Field 480531386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Service ID</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Service ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Header Con - Field CG Service ID Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 691169075 - Field 1119428379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>To date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Til dato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Header Con - Field CG To Date Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 691169075 - Field 2366917804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>External ID</source>
+          <note from="Developer" annotates="general" priority="2">DAN="External ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Header Con - Field ExternalID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3225163700 - Field 1549254840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>From date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fra dato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Invoice Header Con - Field CG From Date Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3225163700 - Field 480531386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Service ID</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Service ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Invoice Header Con - Field CG Service ID Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3225163700 - Field 1119428379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>To date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Til dato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Invoice Header Con - Field CG To Date Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3225163700 - Field 2366917804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>External ID</source>
+          <note from="Developer" annotates="general" priority="2">DAN="External ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Invoice Header Con - Field ExternalID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2261131163 - Field 1549254840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>From date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fra dato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Invoice Line Con - Field CG From Date Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2261131163 - Field 480531386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>Service ID</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Service ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Invoice Line Con - Field CG Service ID Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2261131163 - Field 1119428379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>To date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Til dato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Invoice Line Con - Field CG To Date Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2261131163 - Field 2366917804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
+          <source>External ID</source>
+          <note from="Developer" annotates="general" priority="2">DAN="External ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Invoice Line Con - Field ExternalID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1490503596 - Field 1549254840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>From date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Fra dato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Line Con - Field CG From Date Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1490503596 - Field 480531386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Service ID</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Service ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Line Con - Field CG Service ID Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1490503596 - Field 1119428379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>To date</source>
+          <note from="Developer" annotates="general" priority="2">DAN="Til dato"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Line Con - Field CG To Date Con - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1490503596 - Field 2366917804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>External ID</source>
+          <note from="Developer" annotates="general" priority="2">DAN="External ID"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CG Sales Line Con - Field ExternalID - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
